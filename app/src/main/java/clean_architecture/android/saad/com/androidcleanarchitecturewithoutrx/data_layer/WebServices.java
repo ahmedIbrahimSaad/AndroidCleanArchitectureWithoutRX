@@ -1,4 +1,4 @@
 package clean_architecture.android.saad.com.androidcleanarchitecturewithoutrx.data_layer;
 
-public class LocalDataSource {
+public interface WebServices {
 }
